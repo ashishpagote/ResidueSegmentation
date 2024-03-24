@@ -1,4 +1,5 @@
 **Semantic Segmentation Using UNet (Encode- Decoder Framework)**
+Efficient management of crop residue plays a vital role in maintaining soil health and ensuring sustainable crop production. Precise estimates of the percentage of crop residue covering the soil surface at the field level are crucial for various purposes, such as modeling soil erosion and carbon content, supporting federal programs that promote conservation practices, and validating regional-scale remote sensing-based tillage mapping methods. However, traditional methods used to obtain these estimates are typically laborious, expensive, and subjective.
 
 **Image Data From Fields:**
 
