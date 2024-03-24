@@ -1,9 +1,31 @@
 **Semantic Segmentation Using UNet (Encode- Decoder Framework)**
 
-![image](https://github.com/ashishpagote/ResidueSegmentation/assets/35667006/f7484ea5-1ac1-4378-b110-7fc326a0885b)
+**Image Data From Fields:**
+
+![Screenshot 2024-03-24 at 1 56 30 PM](https://github.com/ashishpagote/ResidueSegmentation/assets/35667006/9fe09d38-f666-4eaa-86d7-fd370e2bec74)
+
+
+
+
+**Data Augmentation Steps:**
+
+![Screenshot 2024-03-24 at 2 03 09 PM](https://github.com/ashishpagote/ResidueSegmentation/assets/35667006/64ec29a2-1142-40db-be95-639178412745)
 
 
 
 
 
-![image](https://github.com/ashishpagote/ResidueSegmentation/assets/35667006/59391b80-9f7f-4ea3-9df0-99e000755c0b)
+**UNet Architecture:**
+
+![image](https://github.com/ashishpagote/ResidueSegmentation/assets/35667006/85d9812e-2132-4d06-b44b-3cd991bee53d)
+
+
+
+
+**Segmentation Outputs:**
+
+![Screenshot 2024-03-24 at 1 55 55 PM](https://github.com/ashishpagote/ResidueSegmentation/assets/35667006/1e7728ea-4083-4a40-bd14-3e5581b817a5)
+
+
+
+
