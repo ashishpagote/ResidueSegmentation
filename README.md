@@ -1,6 +1,8 @@
-Semantic Segmentation Using UNet (Encode- Decoder Framework)
+**Semantic Segmentation Using UNet (Encode- Decoder Framework)**
 
 ![image](https://github.com/ashishpagote/ResidueSegmentation/assets/35667006/f7484ea5-1ac1-4378-b110-7fc326a0885b)
+
+
 
 
 
