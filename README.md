@@ -16,6 +16,10 @@ Efficient management of crop residue plays a vital role in maintaining soil heal
 
 
 
+**Training Plots:**
+
+![image](https://github.com/ashishpagote/ResidueSegmentation/assets/35667006/dd11b1a0-80bd-488c-9d0d-3e68e81acb83)
+
 
 **Segmentation Outputs:**
 
